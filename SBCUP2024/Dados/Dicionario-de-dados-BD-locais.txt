@@ -1,0 +1,10 @@
+[LocID]
+      ,[LocNomLocMJSP]
+      ,[LocGeog] = formato geografico do sql server
+      ,[LocAtv]
+      ,[EmpID]
+      ,[LocLat]
+      ,[LocLong]
+      ,[LocMunGeoId]
+	  ,mun.[MunGeoNom]
+	  ,uf.[UFGeoSgl]
